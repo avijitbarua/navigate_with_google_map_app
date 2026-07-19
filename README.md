@@ -1,5 +1,8 @@
 # Navigate with Google Maps App 🗺️
 
+[![Flutter CI](https://github.com/avijitbarua/navigate_with_google_map_app/actions/workflows/flutter.yml/badge.svg)](https://github.com/avijitbarua/navigate_with_google_map_app/actions/workflows/flutter.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 একটি কাস্টম ফ্লাটার অ্যাপ থেকে গুগল ম্যাপস (Google Maps) ওপেন করে ড্রাইভিং ডিরেকশন বা নেভিগেশন দেখানোর একটি বেসিক ডেমো প্রজেক্ট। 
 
 This is a basic Flutter application demonstrating how to open the Google Maps app with pre-defined/user-defined driving directions using Android Intent.
