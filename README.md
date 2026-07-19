@@ -10,7 +10,10 @@ This is a basic Flutter application demonstrating how to open the Google Maps ap
 ---
 
 ## 📸 Demo Preview (ডেমো প্রিভিউ)
-![Demo Preview](assets/demo.png)
+
+| 📱 Custom App UI | 🗺️ Google Maps Navigation |
+| :---: | :---: |
+| <img src="assets/app_ui.png" width="280" alt="App UI" /> | <img src="assets/navigate_screen_in_google_maps.png" width="280" alt="Google Maps Navigation" /> |
 
 ---
 
